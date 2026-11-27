@@ -2,6 +2,14 @@
 
 Run an S3-compatible object store on your laptop in a few minutes: [MinIO](https://min.io) on a local Kubernetes cluster created with [k3d](https://k3d.io).
 
+## 🎬 Interactive Walkthrough
+
+Explore the complete MinIO deployment step by step, with interactive architecture diagrams and copyable Kubernetes commands.
+
+[🚀 Launch Interactive Walkthrough](https://hasan-soh-sahin.github.io/minio-on-k3d/)
+
+![Animated walkthrough](docs/minio-walkthrough.gif)
+
 Full walkthrough with explanations: [docs/medium-article.md](docs/medium-article.md).
 
 ## What you get
